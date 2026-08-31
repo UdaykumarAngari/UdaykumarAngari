@@ -81,6 +81,20 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
 
 <br/>
 
+## Experience
+
+**Software Developer Intern**, Proquestify Talent96 Solutions — *May 2026 – July 2026*
+- Developed responsive recruitment modules using React 19, Vite, and Zustand for job listings and dashboards
+- Designed and built 4+ REST APIs using Node.js/Express.js with a layered architecture
+- Built an AI semantic-matching microservice using FastAPI, SentenceTransformers, and Qdrant for automated candidate ranking
+- Implemented JWT, Google OAuth, and RBAC; containerized and deployed frontend and backend on AWS EC2 using Docker and Jenkins CI/CD
+
+**Software Developer Intern**, MatWhiz Ingenuity — *May 2025 – June 2025*
+- Built a QR-based visitor logging system using Spring Boot, Hibernate, and MySQL, reducing manual entry by 80%
+- Developed React modules for registration, QR check-ins, and validation with Spring Mail notifications
+
+<br/>
+
 ## Featured Projects
 
 ### **[RGUKT Connect](https://github.com/UdaykumarAngari/rgukt-connect) – Campus Networking Platform**
@@ -111,20 +125,6 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
 <div align="center">
 See <a href="https://udaykumar-angari.in">my full portfolio</a> for more, including an AI-powered candidate matching microservice and a local CI/CD pipeline built with Jenkins, Docker, and Kubernetes.
 </div>
-
-<br/>
-
-## Experience
-
-**Software Developer Intern**, Proquestify Talent96 Solutions — *May 2026 – July 2026*
-- Developed responsive recruitment modules using React 19, Vite, and Zustand for job listings and dashboards
-- Designed and built 4+ REST APIs using Node.js/Express.js with a layered architecture
-- Built an AI semantic-matching microservice using FastAPI, SentenceTransformers, and Qdrant for automated candidate ranking
-- Implemented JWT, Google OAuth, and RBAC; containerized and deployed frontend and backend on AWS EC2 using Docker and Jenkins CI/CD
-
-**Software Developer Intern**, MatWhiz Ingenuity — *May 2025 – June 2025*
-- Built a QR-based visitor logging system using Spring Boot, Hibernate, and MySQL, reducing manual entry by 80%
-- Developed React modules for registration, QR check-ins, and validation with Spring Mail notifications
 
 <br/>
 
