@@ -81,7 +81,7 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
 
 <br/>
 
-## Experience
+## Professional Experience
 
 **Software Developer Intern**, Proquestify Talent96 Solutions — *May 2026 – July 2026*
 - Developed responsive recruitment modules using React 19, Vite, and Zustand for job listings and dashboards
