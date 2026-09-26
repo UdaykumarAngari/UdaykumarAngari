@@ -154,7 +154,7 @@ See <a href="https://udaykumar-angari.in">my full portfolio</a> for more, includ
 ## Achievements
 
 - **Knight, LeetCode** — Top 5.3% globally, 365+ day solving streak
-- **DevOps Specialization** — [Coursera Verification](https://www.coursera.org/account/accomplishments/verify/DPYL3KLDWYTB)
+- **DevOps Specialization** — [Coursera Verification](https://www.coursera.org/account/accomplishments/verify/2H0R0ZEEWIV3)
 
 <br/>
 
