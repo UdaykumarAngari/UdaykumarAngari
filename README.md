@@ -37,7 +37,7 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br/>Spring Boot</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/>Node.js</td>
+    <!-- <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/>Node.js</td> -->
   </tr>
 </table>
 
@@ -75,6 +75,7 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/>GitHub</td>
   </tr>
 </table>
 
