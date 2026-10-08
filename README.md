@@ -28,6 +28,7 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
 <table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/>Java</td>
+     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/><br/>JavaScript</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/>Python</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"/><br/>Bash</td>
   </tr>
