@@ -46,7 +46,6 @@ Backend-leaning full-stack developer specializing in building backend-heavy full
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/>PostgreSQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/>MongoDB</td>
   </tr>
 </table>
 
